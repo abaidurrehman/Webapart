@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "hellowword",
+    "framework": "knockout",
+    "version": "1.0.0",
+    "libraryId": "216a3022-ab33-4bb3-a567-1721f6b7d2bb"
+  }
+}

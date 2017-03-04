@@ -1,0 +1,21 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "4c3c421b-1fa0-4eb0-94d6-e5e169bb7307",
+  "alias": "HellowWorldWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "4c3c421b-1fa0-4eb0-94d6-e5e169bb7307",
+    "group": { "default": "Under Development" },
+    "title": { "default": "HellowWorld" },
+    "description": { "default": "Helloworld" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HellowWorld",
+      "comments":"Comments"
+    }
+  }]
+}
